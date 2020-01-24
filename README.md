@@ -1,2 +1,2 @@
-# HelloGitHub
-beginnerrepo
+# HelloGithub
+This is my ReadMe file
